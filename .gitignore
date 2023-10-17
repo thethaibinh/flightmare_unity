@@ -57,6 +57,8 @@ tunnel_play.playable.meta
 *.booproj
 *.svd
 *.pdb
+*.psd.meta
+*.psd
 
 # Unity3D generated meta files
 *.pidb.meta

@@ -12,12 +12,15 @@ EditorBuildSettings:
     path: Assets/Environments/Industrial/Scenes/DemoScene.unity
     guid: 03818a84e6e20aeec9ccdc69b66daf58
   - enabled: 1
-    path: Assets/Environments/Warehouse/Scenes/DemoScene.unity
-    guid: f60a90c928fe7ee4cb322afc5675b963
-  - enabled: 1
-    path: Assets/ApocalypticWasteland/Scenes/Wasteland.unity
-    guid: 246461ea805f3c14cb620102040f1e34
-  - enabled: 1
-    path: Assets/Mountain Environment/Demo Scenes/Standard Mountain Scene.unity
-    guid: edcaa881f1f0a7041805eb0cdf0646d4
+    path: Assets/Environments/DreamForestTree/DemoScene.unity
+    guid: 6dc68697d72e283438f1cd3bd3441279
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
